@@ -57,4 +57,7 @@ A lightweight AI assistant that runs right inside your terminal. You chat with a
 
 ---
 
+Inspired by [@gentoolarp](https://www.tiktok.com/@gentoolarp/video/7707244893227207939).
+
+
 v2 is coming.
