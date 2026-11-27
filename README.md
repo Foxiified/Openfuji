@@ -55,7 +55,11 @@ A lightweight AI assistant that runs right inside your terminal. You chat with a
 - `Esc` — Stop generation or close a menu
 - `Ctrl+C` — Quit
 
+## AI Usage
+Used for debugging and help with fox art.
+
 ---
+
 
 Inspired by [@gentoolarp](https://www.tiktok.com/@gentoolarp/video/7707244893227207939).
 
